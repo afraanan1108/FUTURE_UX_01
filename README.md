@@ -11,3 +11,13 @@ Service offerings are clearly structured to help users quickly understand option
 ### Deliverables
 - Landing page UI design (PNG export)
 - Conversion-focused layout with services, testimonials, and call-to-action
+    
+    ## Task 2 – Appointment Booking Mobile App
+
+Description:  
+A mobile UI/UX prototype for a home cleaning appointment booking flow.  
+Users can select a service, choose date & time, and confirm an appointment.
+
+**Prototype Link:**  
+https://www.figma.com/proto/Vid35zsjTJlkBXjlVXtKSj/FUTURE_UIUX_02-%E2%80%93-Appointment-Booking-App?node-id=0-1&t=JZ2Ek0E7vtuIeF7T-1
+
