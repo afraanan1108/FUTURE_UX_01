@@ -20,4 +20,16 @@ Users can select a service, choose date & time, and confirm an appointment.
 
 **Prototype Link:**  
 https://www.figma.com/proto/Vid35zsjTJlkBXjlVXtKSj/FUTURE_UIUX_02-%E2%80%93-Appointment-Booking-App?node-id=0-1&t=JZ2Ek0E7vtuIeF7T-1
+---
 
+  ## Task 3 – CRM Dashboard
+
+## Overview
+CRM Dashboard UI design created for Future Interns (UI/UX Internship).
+
+## Deliverables
+- CRM Dashboard (PNG)
+- (Optional) PDF export
+
+## Preview
+![CRM Dashboard](CRM%20Dashboard.png)
